@@ -1,0 +1,5 @@
+https://codechick.io/tutorials/python/python-what-is-oop
+
+https://skillbox.ru/media/code/kak-izbezhat-putanitsy-v-kode-ili-kratkiy-kurs-oop-na-python/
+
+https://ru.hexlet.io/courses/python-setup-environment/lessons/pip-and-indexes/theory_unit
